@@ -1,0 +1,11 @@
+{
+  "name": "tic-tac-toe_typescript",
+  "version": "1.0.0",
+  "description": "a tic-tac-toe game written on typescript for web programming course in HSE",
+  "main": "tic-tac-toe.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Yuri Antipov",
+  "license": "ISC"
+}
